@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-__author__ = 'bobby'
-__date__ = '2016/10/25 23:34'
+__author__ = 'wfx'
+__date__ = '2018/4/25 23:34'
 import xadmin
 
 from .models import Course, Lesson, Video, CourseResource, BannerCourse

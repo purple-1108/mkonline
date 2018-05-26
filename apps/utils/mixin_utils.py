@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-__author__ = 'bobby'
+__author__ = 'wfx'
+__date__ = '2018/4/25 23:34'
 
 from django.contrib.auth.decorators import login_required
 from django.utils.decorators import method_decorator
